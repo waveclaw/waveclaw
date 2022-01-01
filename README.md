@@ -15,7 +15,7 @@
 [<img align="left" alt="waveclaw.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="waveclaw | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="waveclaw | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="waveclaw | Imgur" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="waveclaw | Imgur" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/imgur.svg" />][imgur]
 
 <br />
 
@@ -71,7 +71,7 @@
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/waveclaw
 [youtube]: https://youtube.com/waveclaw
-[Imgur]: https://imgur.com/a/v1isVyE
+[imgur]: https://imgur.com/a/v1isVyE
 [artplaylist]: https://www.youtube.com/playlist?list=PLqDJMMTAd98ULbv-M5-_R0Xzqe34T7xTn
 
 ## References
