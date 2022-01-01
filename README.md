@@ -37,6 +37,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Half-Life 2 Bugged Bird on a Roof](https://www.youtube.com/watch?v=ErXM_PQxwC4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/waveclaw)
