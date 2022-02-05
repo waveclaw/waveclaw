@@ -37,6 +37,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ARK: Survival Evolved Genesis Part 2: Eden Biome Base Tour](https://www.youtube.com/watch?v=kR_MmKffZuI)
 - [Half-Life 2 Bugged Bird on a Roof](https://www.youtube.com/watch?v=ErXM_PQxwC4)
 <!-- YOUTUBE:END -->
 
