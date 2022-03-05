@@ -1,6 +1,6 @@
 ### Greetings, I am JD Powell - aka [WaveClaw][website] 👋
 
-[![Website](https://img.shields.io/website?label=waveclaw.com&style=for-the-badge&url=http%3A%2F%2Fwaveclaw.com)](https://waveclaw.com)
+[![Website](https://img.shields.io/website?label=waveclaw.com&style=for-the-badge&url=http%3A%2F%2Fwaveclaw.com)](http://waveclaw.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/waveclaw?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fwaveclaw&screen_name=waveclaw)
 
 ## I'm an Artist, Developer, Sysadmin and Gamer!!
